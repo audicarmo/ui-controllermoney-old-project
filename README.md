@@ -12,7 +12,7 @@
 ### Funcionalidades :computer: :
     - Login;
     
-    ![Screenshot](Login.png)
+    ![Screenshot](screenshot.png)
     
     - Cadastro de pessoas;
     - Pesquisa de pessoas cadastradas;
