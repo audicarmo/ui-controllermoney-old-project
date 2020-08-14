@@ -11,6 +11,7 @@
     
 ### Funcionalidades :computer: :
     - Login;
+    ![Screenshot](Login.png)
     - Cadastro de pessoas;
     - Pesquisa de pessoas cadastradas;
     - Cadastro de lançamentos;
