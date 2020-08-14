@@ -11,9 +11,6 @@
     
 ### Funcionalidades :computer: :
     - Login;
-    <div align="center">
-        <img src="/screenshots/Login.png" width="200px"</img> 
-    </div>
     - Cadastro de pessoas;
     - Pesquisa de pessoas cadastradas;
     - Cadastro de lançamentos;
