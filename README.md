@@ -11,15 +11,14 @@
     
 ### Funcionalidades :computer: :
     - Login;
-    
-    ![Screenshot](screenshot.png)
-    
     - Cadastro de pessoas;
     - Pesquisa de pessoas cadastradas;
     - Cadastro de lançamentos;
     - Pesquisas de Lançamentos;
     - Logout.
-    
+ 
+ ### Imagens projeto :
+     Pasta: screenshots  
 
 ### Instalar dependencias
 Rode `npm install`.
